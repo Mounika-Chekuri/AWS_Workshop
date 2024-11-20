@@ -27,6 +27,9 @@ Amazon Elastic Compute Cloud, provides scalable computing capacity in the Amazon
 Let's start the lab:
 
 Step 1. Create a Key pairs: goto-> Amazon EC2 console-> network&security-> create a key-pair
+
+Step 2. Launch a Web server instance
+
    
 
 
