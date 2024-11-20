@@ -20,4 +20,14 @@ Basic modules consist of the following agenda:
 5. Database - Amazon RDS
 6. Storage - Amazon S3, Amazon Elastic File System
 
+***What is Amazon EC2?***
+
+Amazon Elastic Compute Cloud, provides scalable computing capacity in the Amazon Web Services (AWS) Cloud. In which you can add virtual servers as an when needed, reducing the overhead of hardware.
+
+Let's start the lab:
+
+Step 1. Create a Key pairs: goto-> Amazon EC2 console-> network&security-> create a key-pair
+   
+
+
 
