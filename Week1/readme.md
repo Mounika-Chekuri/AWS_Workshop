@@ -29,6 +29,7 @@ Let's start the lab:
 Step 1. Create a Key pairs: goto-> Amazon EC2 console-> network&security-> create a key-pair
 
 Step 2. Launch a Web server instance
+Step 3. Laund a window instance using RDP Client: goto->connect details-> click RDP and select get password and load the created key-pair aand get password. download client and give this password.
 
    
 
